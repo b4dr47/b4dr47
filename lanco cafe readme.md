@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-yZ1fdPQNFNhrjmvY9ziMlBeMfa5Gkz_WlydZLMl-ICc2k_XmFcSLSkdwhOKz9DwNxCfiGE-ns3yuBt1DG9957SY9jV5A=w1920-h941" width="90px" height="90px" />
+  <img src=https://github.com/b4dra7/b4dra7/blob/main/lanco%20cafe%20logo.png" width="90px" height="90px" />
 </p>
 LanCo Café 是一個致力於提供高品質、友好和多元化的線上交流體驗的社群。我們的社群涵蓋了各種不同的主題和活動，讓您可以找到您感興趣的領域和人群。我們的成員來自不同的背景、興趣和專長，但我們都有一個共同的目標，便是在這個快節奏的世界裡，找到一個放鬆、交流和學習的空間。
 
