@@ -17,4 +17,3 @@ LanCo Café 是一個致力於提供高品質、友好和多元化的線上交�
 + [A.C.G.M CITY](https://discord.com/invite/acgmcity)
     
 + [ㄉㄉ帝國 - 隸屬於『𝗟𝗮𝗻𝗖𝗼-𝗖𝗮𝗳𝗲́』](https://discord.gg/fDARQbNQKJ)
-    
