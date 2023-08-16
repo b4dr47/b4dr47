@@ -6,8 +6,6 @@ LanCo Café 是一個致力於提供高品質、友好和多元化的線上交�
 
 [我就不多說了，趕快打造一個友善的咖啡廳吧！](https://discord.gg/seZ3WNTC4J)
 
-[點我](https://hackmd.io/mOj5SjdfR6a8vUc7BigjTA) 看到更多的說明
-
 ## 旗下機器人
 [初春 Uiharu](https://github.com/LanCoCafe/uiharu)
 
