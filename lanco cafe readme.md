@@ -3,6 +3,8 @@ LanCo Café 是一個致力於提供高品質、友好和多元化的線上交�
 
 在這家咖啡廳裡，雖然大家都做著不同的工作，不過在咖啡杯的轉動下，大家都在以同一個目標持續前進！也許你想要做 Discord Bot，也許你想要管理 Discord 伺服器，甚至是設計 Logo、當個社群小編、甚至是個吉祥物也是沒問題ㄉ！
 
+[我就不多說了，趕快打造一個友善的咖啡廳吧！](https://discord.gg/seZ3WNTC4J)
+
 ## 旗下機器人
 [初春 Uiharu](https://github.com/LanCoCafe/uiharu)
 
