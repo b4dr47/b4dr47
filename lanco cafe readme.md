@@ -10,13 +10,13 @@ LanCo Café 是一個熱衷於打造高品質、友好和多元化線上交流�
 我們鼓勵您積極參與，創建友善的氛圍，共同打造一個熱愛知識、尊重多樣性的社群。無論您是否有問題，我們都樂意聆聽並提供幫助。您可以通過私訊與我們聯繫，也可以加入我們的 Discord 群組，與其他成員進行交流。LanCo Café 期待著您的加入，一起共享這個充滿活力的交流之地！
 
 ## 旗下機器人
-[初春 Uiharu](https://github.com/LanCoCafe/uiharu)
+[初春 Uiharu]<https://github.com/LanCoCafe/uiharu>
 
-[Role Editor(開發中)](https://github.com/LanCoCafe/LanCo-Role_Editor)
+[Role Editor(開發中)]<https://github.com/LanCoCafe/LanCo-Role_Editor>
 
 ## 旗下 Discord 伺服器
-+ [LanCo Café](https://discord.gg/seZ3WNTC4J)
++ [LanCo Café]<https://discord.gg/seZ3WNTC4J>
 
-+ [A.C.G.M CITY](https://discord.com/invite/acgmcity)
++ [A.C.G.M CITY]<https://discord.com/invite/acgmcity>
     
-+ [ㄉㄉ帝國 - 隸屬於『𝗟𝗮𝗻𝗖𝗼-𝗖𝗮𝗳𝗲́』](https://discord.gg/fDARQbNQKJ)
++ [ㄉㄉ帝國 - 隸屬於『𝗟𝗮𝗻𝗖𝗼-𝗖𝗮𝗳𝗲́』]<https://discord.gg/fDARQbNQKJ>
