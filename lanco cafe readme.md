@@ -1,5 +1,4 @@
-# LanCo Café
-歡迎來到 LanCo Café：您的線上多元交流體驗！
+歡迎來到 [LanCo Café](https://discord.gg/seZ3WNTC4J)：您的線上多元交流體驗！
 
 LanCo Café 是一個熱衷於打造高品質、友好和多元化線上交流環境的社群。我們致力於提供一個富有活力且充滿活動的平台，讓您能夠輕鬆找到自己感興趣的領域和志同道合的夥伴。無論您來自哪個背景、擁有哪些興趣、具備什麼專長，我們都歡迎您的加入。在這個快節奏的時代，我們深知每個人都需要一處能夠放鬆、交流和學習的綠洲，而 LanCo Café 正是您所追求的理想場所。
 
@@ -15,7 +14,6 @@ LanCo Café 是一個熱衷於打造高品質、友好和多元化線上交流�
 [Role Editor(開發中)](https://github.com/LanCoCafe/LanCo-Role_Editor)
 
 ## 旗下 Discord 伺服器
-+ [LanCo Café](https://discord.gg/seZ3WNTC4J)
 
 + [A.C.G.M CITY](https://discord.com/invite/acgmcity)
     
